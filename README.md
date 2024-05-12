@@ -6,7 +6,7 @@
 <p>El proyecto consiste en ejecutar un Script diariamente que consume una API del clima, luego usar un número de telefono en Twilio para enviarlo hacia un número de telefono personal.</p>  
 
 <ul>
-  <li>Python - Jupyter NoteBook</li>
+  <li>Python</li>
   <li>Twilio</li>
   <li>AWS EC2</li>
 </ul>
