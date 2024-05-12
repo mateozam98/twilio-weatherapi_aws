@@ -1,4 +1,4 @@
-<h2 align="center"> Proyecto envió de pronostico de llvuia en el móvil por SMS y Whatsapp</h2>
+<h2 align="center"> Proyecto envió de pronostico de lluvia en el móvil por SMS y Whatsapp</h2>
 <em> Stack: Twilio - Python - AWS EC2  </em>
 
 <h3>Herramientas utilizadas</h3>
