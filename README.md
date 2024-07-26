@@ -3,7 +3,7 @@
 
 <h3>Herramientas utilizadas</h3>
 
-<p>El proyecto consiste en ejecutar un Script diariamente que consume una API del clima, luego usar un número de telefono en Twilio para enviarlo hacia un número de telefono personal.</p>  
+<p>Este proyecto busca crear una forma sencilla y automatizada de recibir información del clima diariamente. Mediante un programa sencillo, se consultará cada día una fuente de datos del clima (una API) y se extraerá la información más relevante. Esta información será enviada como un SMS a tú teléfono movil, utilizando el servicio de Twilio.</p>  
 
 <ul>
   <li>Python</li>
@@ -16,7 +16,7 @@
 # DataFrame con datos del API weather:
 ![image](https://github.com/mateozam98/twilio-weatherapi_aws/assets/61571125/b91c2c4c-9323-4038-94a7-558908679244)
 # Envío de pronostico de lluvia desde la instancia de AWS
-<p> Donde cada día se ejecuta un script consumiendo la API de clima y se envía al telefono por SMS y Whatsapp el pronostico de la lluvia.</p>
+<p> Donde cada día se ejecuta un script consumiendo la API de clima y se envía al telefono por SMS y Whatsapp el pronostico de la lluvia de una ciudad en especifico en este caso Valencia España.</p>
 
 ![image](https://github.com/mateozam98/twilio-weatherapi_aws/assets/61571125/830d383b-8388-420f-af64-0caa0fc50ab8)
 
